@@ -20,17 +20,18 @@ body {
   background: rgb(28, 28, 28);
 }
 .logo img{
+  /* width: 500px; */
   display: block;
   margin: auto;
 }
-@media screen and (min-width: 53em) {
+@media screen and (max-width: 53em) {
 .logo{
   width: 100%;
   justify-content: center;
   background: rgb(28, 28, 28);
 }
 .logo img{
-  width: 50em;
+  width: 450px;
   display: block;
   margin: auto;
 }
