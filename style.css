@@ -9,6 +9,7 @@ body {
 .song{
   justify-content: center;
   padding-top: 10px;
+  margin-bottom: 10px;
 }
 .song audio{
   display: block;
@@ -31,7 +32,7 @@ body {
 @media screen and (max-width: 35em) {
 .logo{
   display: flex;
-  height: 16vh;
+  height: 17vh;
   width: 100%;
   background: rgb(28, 28, 28);
 }
