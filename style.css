@@ -23,16 +23,17 @@ body {
   display: block;
   margin: auto;
 }
-@media screen and (max-width: 53em) {
+@media screen and (max-width: 40em) {
 .logo{
-  height: 18vh;
+  height: 22vh;
   width: 100%;
   justify-content: center;
   vertical-align: middle;
   background: rgb(28, 28, 28);
 }
 .logo img{
-  width: 420px;
+  padding-left: 15px;
+  width: 100%;
   display: block;
   margin: auto;
 }
