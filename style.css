@@ -25,15 +25,15 @@ body {
 }
 @media screen and (max-width: 40em) {
 .logo{
-  height: 22vh;
+  height: 18vh;
   width: 100%;
   justify-content: center;
   vertical-align: middle;
   background: rgb(28, 28, 28);
 }
 .logo img{
-  padding-left: 0px;
-  width: 90%;
+  padding-left: 15px;
+  height: 18vh;
   display: block;
   margin: auto;
 }
