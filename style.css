@@ -15,9 +15,13 @@ body {
   margin: auto;
 }
 .logo{
-  width: 50%;
+  width: 100%;
   justify-content: center;
   background: rgb(28, 28, 28);
+}
+.logo img{
+  display: block;
+  margin: auto;
 }
 @media screen and (min-width: 53em) {
 .logo{
@@ -25,10 +29,11 @@ body {
   justify-content: center;
   background: rgb(28, 28, 28);
 }
-}
 .logo img{
+  width: 50em;
   display: block;
   margin: auto;
+}
 }
 .swiper-container {
   width: 100%;
