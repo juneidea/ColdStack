@@ -15,9 +15,16 @@ body {
   margin: auto;
 }
 .logo{
+  width: 50%;
+  justify-content: center;
+  background: rgb(28, 28, 28);
+}
+@media screen and (min-width: 53em) {
+.logo{
   width: 100%;
   justify-content: center;
   background: rgb(28, 28, 28);
+}
 }
 .logo img{
   display: block;
