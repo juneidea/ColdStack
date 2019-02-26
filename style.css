@@ -26,12 +26,13 @@ body {
 }
 @media screen and (max-width: 53em) {
 .logo{
+  height: 150px;
   width: 100%;
   justify-content: center;
   background: rgb(28, 28, 28);
 }
 .logo img{
-  width: 450px;
+  width: 420px;
   display: block;
   margin: auto;
 }
